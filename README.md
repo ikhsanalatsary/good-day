@@ -22,6 +22,10 @@
   <!--[![Backers on Open Collective](https://opencollective.com/nest/backers/badge.svg)](https://opencollective.com/nest#backer)
   [![Sponsors on Open Collective](https://opencollective.com/nest/sponsors/badge.svg)](https://opencollective.com/nest#sponsor)-->
 
+## Hands-on Project in the Workshop
+- The first commit [dca1cdf](https://github.com/ikhsanalatsary/good-day/commit/dca1cdff3993019d4a5bcb1f1e759d00231a57d5)
+- Added [departments](https://github.com/ikhsanalatsary/good-day/commit/3a9166bfc5ecbedfc8f0b22f59e9c907233cc733) after the workshop done 
+
 ## Description
 
 [Nest](https://github.com/nestjs/nest) framework TypeScript starter repository.
